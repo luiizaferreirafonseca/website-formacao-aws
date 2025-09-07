@@ -1,8 +1,38 @@
-# Sample GitLab Project
+# 🌐 Portfolio AWS Practice – Code Girls | DIO
 
-This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
-named and filled with lorem ipsum.
+Este repositório contém um **modelo de portfólio web** usado exclusivamente para fins de **prática com serviços da AWS**, como **S3**, **Buckets**, e **hospedagem estática de sites**, seguindo o conteúdo do curso oferecido pela iniciativa **Code Girls** em parceria com a **DIO (Digital Innovation One)**.
 
-You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
+## 🎯 Objetivo
 
-[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
+O principal objetivo deste projeto é:
+
+- Praticar a criação e configuração de buckets no **Amazon S3**  
+- Aprender a hospedar sites estáticos na AWS  
+- Explorar políticas de acesso público e permissões de objetos  
+- Familiarizar-se com os conceitos de **Cloud Computing**  
+- Consolidar o aprendizado prático ao longo do curso
+
+## 🛠 Tecnologias utilizadas
+
+- **HTML5**
+- **CSS3**
+- (Possivelmente outras, dependendo de personalizações futuras)
+
+## ☁️ Serviços AWS praticados
+
+- Amazon S3 (Simple Storage Service)
+  - Criação de buckets
+  - Configuração de hospedagem estática
+  - Políticas de acesso
+  - Upload e gerenciamento de arquivos estáticos
+
+## 👩‍💻 Sobre o Projeto
+
+Este portfólio **não representa minha atuação profissional ou projetos reais**. Ele é um **template simples**, com o propósito de servir como material de apoio durante os exercícios do curso. Ao final, será possível entender como disponibilizar um site estático na AWS de forma prática e segura.
+
+## 📚 Curso de origem
+
+Este projeto é parte do conteúdo prático do curso:
+
+- **Programa Code Girls – AWS Cloud Practitioner Essentials**
+- Plataforma: [DIO - Digital Innovation One](https://www.dio.me)
