@@ -2,6 +2,10 @@
 
 Este repositório contém um **modelo de portfólio web** usado exclusivamente para fins de **prática com serviços da AWS**, como **S3**, **Buckets**, e **hospedagem estática de sites**, seguindo o conteúdo do curso oferecido pela iniciativa **Code Girls** em parceria com a **DIO (Digital Innovation One)**.
 
+LINK do website estático hospedado e configurado no Amazon S3 com todo o processo de deploy, armazenamento e configuração de permissões:
+[Ver meu projeto hospedado no S3](https://desafioaws-dio-luiza.s3.us-east-1.amazonaws.com/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAROGGJXFADDZGZE2U%2F20250907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250907T190100Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjE_)
+
+
 ## 🎯 Objetivo
 
 O principal objetivo deste projeto é:
